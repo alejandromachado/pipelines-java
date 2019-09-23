@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/alemachado87/alemachado87/_apis/build/status/alejandromachado.pipelines-java?branchName=master)](https://dev.azure.com/alemachado87/alemachado87/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
